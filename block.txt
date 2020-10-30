@@ -1,0 +1,1 @@
+[\S]*\.ster\.nl\/banners\/[\S]*
