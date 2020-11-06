@@ -1,4 +1,5 @@
 [\S]*\.ster\.nl\/banners\/[\S]*
 https:\/\/collector\.brandmetrics\.com\/[\S]*
 https:\/\/s02\.2mdn\.net\/[\S]*
+https:\/\/xb\.lc\/[\S]*
 https:\/\/[\S]*\.googlesyndication\.com\/[\S]*
